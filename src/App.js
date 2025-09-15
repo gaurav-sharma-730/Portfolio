@@ -38,7 +38,7 @@ const projects = [
   {
     id: 'project2',
     number: '02',
-    title: 'Network Prot Scanner',
+    title: 'Network Port Scanner',
     description:
       'Built a Command Line Application that scans open ports and services on an IP address or a domain name.',
     skills: [
