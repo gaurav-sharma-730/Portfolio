@@ -114,10 +114,10 @@ const StackImages = [
 ];
 
 const Links = [
-  'www.linkedin.com/in/gaurav-sharma-cybersecurity',
-  'https://github.com/Gaurav-Jangid-730',
+  'www.linkedin.com/in/gauravsharma730',
+  'https://github.com/Gaurav-sharma-730',
   'https://x.com/GauravShar79637',
-  'https://www.instagram.com/gaurav_jangid_730/',
+  'https://www.instagram.com/gaurav_sharma_730/',
   'mailto: gauravjangid7300@gmail.com',
 ];
 
