@@ -31,7 +31,7 @@ const projects = [
       pub('/images/stack/Tryhackme--Streamline-Simple-Icons.svg'),
     ],
     links: {
-      github: 'https://github.com/Gaurav-Jangid-730/The-Lost-Treasure-CTF.git',
+      github: 'https://github.com/Gaurav-Sharma-730/The-Lost-Treasure-CTF.git',
       live: 'https://tryhackme.com/r/room/thelosttreasureEG',
     },
   },
@@ -48,8 +48,8 @@ const projects = [
       pub('/images/stack/windows.png'),
     ],
     links: {
-      github: 'https://github.com/Gaurav-Jangid-730/Network-Port-Scanner.git',
-      live: 'https://github.com/Gaurav-Jangid-730/Network-Port-Scanner.git',
+      github: 'https://github.com/Gaurav-Sharma-730/Network-Port-Scanner.git',
+      live: 'https://github.com/Gaurav-Sharma-730/Network-Port-Scanner.git',
     },
   },
   {
@@ -65,8 +65,8 @@ const projects = [
       pub('/images/stack/windows.png'),
     ],
     links: {
-      github: 'https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git',
-      live: 'https://github.com/Gaurav-Jangid-730/Malware_Analysis_Lab.git',
+      github: 'https://github.com/Gaurav-Sharma-730/Malware_Analysis_Lab.git',
+      live: 'https://github.com/Gaurav-Sharma-730/Malware_Analysis_Lab.git',
     },
   },
   {
@@ -83,8 +83,8 @@ const projects = [
     ],
     links: {
       github:
-        'https://github.com/Gaurav-Jangid-730/Password_Strength_Cheacker.git',
-      live: 'https://github.com/Gaurav-Jangid-730/Password_Strength_Cheacker.git',
+        'https://github.com/Gaurav-Sharma-730/Password_Strength_Cheacker.git',
+      live: 'https://github.com/Gaurav-Sharma-730/Password_Strength_Cheacker.git',
     },
   },
 ];
@@ -118,7 +118,7 @@ const Links = [
   'https://github.com/Gaurav-sharma-730',
   'https://x.com/GauravShar79637',
   'https://www.instagram.com/gaurav_sharma_730/',
-  'mailto: gauravjangid7300@gmail.com',
+  'mailto: gauravsharma7300@gmail.com',
 ];
 
 function App() {
@@ -127,11 +127,11 @@ function App() {
   <Navbar Src="/images/userAsset/NavLogo.jpg" Href={Href} NavText="ortfoLio."></Navbar>
   <HeroSection FadeText = "Gaurav" FName="Gaurav Sharma" Description={Description[0]} Href="/Resume/Cybersecurity -Resume.pdf"
   DownloadFileName="Resume.pdf" BtnText="Hire Me" ImageSrc="/images/userAsset/Profile_DARK.png"></HeroSection>
-  <Projects heading="Projects" projects={projects} moreProjectsUrl="https://github.com/Gaurav-Jangid-730?tab=repositories"></Projects>
-  <Skills FadeText="Skills" CapLetter="M" SLetter1="e and" SLetter2="MyTech Stack" PDescription1={Description[1]} PDescription2={Description[2]} Href="https://gaurav-jangid-730.github.io/Certificates/" RedirectText="View Certificates" StackImages={StackImages}></Skills>
+  <Projects heading="Projects" projects={projects} moreProjectsUrl="https://github.com/Gaurav-Sharma-730?tab=repositories"></Projects>
+  <Skills FadeText="Skills" CapLetter="M" SLetter1="e and" SLetter2="MyTech Stack" PDescription1={Description[1]} PDescription2={Description[2]} Href="https://gaurav-sharma-730.github.io/Certificates/" RedirectText="View Certificates" StackImages={StackImages}></Skills>
   <ContectMe Heading="Contact Me" SubHeading="Questions, thoughts, or just want to say hello?" Action="https://formspree.io/f/mlekrnnl" BtnText="Send Message"></ContectMe>
   <FooterSection FadeText="Gaurav Sharma" Href={Href} Links={Links}></FooterSection>
-  <GithubSVG Href="https://github.com/gaurav-jangid-730"></GithubSVG>
+  <GithubSVG Href="https://github.com/gaurav-sharma-730"></GithubSVG>
   </div>
   );
 }
