@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio showcasing projects, skills, achievements, and ways to get in touch. Built with React and designed for clarity, speed, and accessibility.
 
-- Live site: https://gaurav-jangid-730.github.io/Portfolio/
+- Live site: https://gaurav-sharma-730.github.io/Portfolio/
 - Tech: React, JavaScript, CSS
 - Focus: Cybersecurity, Networking, Ethical Hacking
 
